@@ -61,8 +61,9 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PriscaOnye&theme=cobalt)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PriscaOnye&theme=cobalt)](https://git.io/streak-stats) -->
 
-
+<!-- 
 ### My WakaTime Stats
-[![PriscaOnye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl&layout=compact)](https://github.com/PriscaOnyee/github-readme-stats)
+[![PriscaOnye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl&layout=compact)](https://github.com/PriscaOnyee/github-readme-stats) 
+-->
